@@ -19,8 +19,8 @@ Fitness inheritance was introduced by Smith, Dike, and Stegmann in 1995 as a way
 
 1. **Clone this repository:**
     ```bash
-    git clone https://github.com/your-github-username/fitness-inheritance-platypus.git
-    cd fitness-inheritance-platypus
+    git clone git@github.com:paulmoise/genetics-algorithm.git
+    cd genetics-algorithm/fitness-inheritance-platypus
     ```
 
 2. **Install requirements:**
